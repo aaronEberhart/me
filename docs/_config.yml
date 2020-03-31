@@ -1,5 +1,4 @@
 theme: jekyll-theme-slate
 title: Aaron Eberhart
 description: A short description of your site's purpose
-show_downloads: "false"
-# logo: [Location of the logo]
+show_downloads: false
