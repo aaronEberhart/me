@@ -1,3 +1,5 @@
+### [Back](index.md)
+
 ## Papers
 
 - [Completion Reasoning Emulation for the Description Logic EL+](https://github.com/aaronEberhart/me/raw/master/papers/AAAI-MAKE2020CompletionReasoningEmulationfortheDescriptionLogicEL%2B.pdf)
