@@ -1,4 +1,4 @@
-# [Publications](papers.md) [Projects](projects.md) [Data Semantics Lab](https://daselab.cs.ksu.edu/) [CV](cv.md)
+# [Publications](papers.md) [Projects](projects.md) [DaSe Lab](https://daselab.cs.ksu.edu/) [CV](cv.md)
 
 # Under Construction
 
