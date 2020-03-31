@@ -1,4 +1,17 @@
-# [Publications](papers.md) [Projects](projects.md) [DaSe Lab](https://daselab.cs.ksu.edu/) [CV](cv.md)
+# <div class="container-lg clearfix">
+  <div class="col-3 float-left pr-2 mb-3">
+    <div class="border bg-gray-light">[Publications](papers.md)</div>
+  </div>
+  <div class="col-3 float-left px-2 mb-3">
+    <div class="border bg-gray-light">[Projects](projects.md)</div>
+  </div>
+  <div class="col-3 float-left px-2 mb-3">
+    <div class="border bg-gray-light">[DaSe Lab](https://daselab.cs.ksu.edu/)</div>
+  </div>
+  <div class="col-3 float-left pl-2 mb-3">
+    <div class="border bg-gray-light">[CV](cv.md)</div>
+  </div>
+</div>
 
 # Under Construction
 
