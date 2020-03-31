@@ -1,6 +1,6 @@
 # Under Construction
 
-Hey Everybody making a website
+Hey everybody making a website
 
 ## About Me
 
