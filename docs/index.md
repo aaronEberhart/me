@@ -4,7 +4,7 @@ Hey everybody making a website
 
 ## About Me
 
-![Me](me.png)<!-- .element height="50%" width="50%" -->
+![Me](me.png)<!-- .element height="40%" width="40%" -->
 
 Bio coming soon
 
