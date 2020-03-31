@@ -2,7 +2,7 @@
 
 Hey
 
-### [Papers](https://github.com/aaronEberhart/me/master/docs/papers.md)
+### [Papers](https://github.com/aaronEberhart/me/docs/papers.md)
 
 ## Welcome to GitHub Pages
 
