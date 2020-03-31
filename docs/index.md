@@ -4,7 +4,7 @@ Hey everybody making a website
 
 ## About Me
 
-<img src="https://github.com/favicon.ico" width="50" height="50">
+<img src="me.png" width="50" height="50">
 
 Bio coming soon
 
