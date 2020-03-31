@@ -1,4 +1,10 @@
-# [Publications](papers.md) [Projects](projects.md) [DaSe Lab](https://daselab.cs.ksu.edu/) [CV](cv.md)<!-- .element width="100%" -->
+# [Publications](papers.md) [Projects](projects.md) [DaSe Lab](https://daselab.cs.ksu.edu/) [CV](cv.md)
+
+<div class="border d-flex flex-justify-center">
+ <div><a href="papers.md">Publications</a></div>
+ <div class="p-5 border bg-gray-light"><a href="papers.md">Publications</a></div>
+ <div class="p-5 border bg-gray-light"><a href="papers.md">Publications</a></div>
+</div>
 
 # Under Construction
 
@@ -17,4 +23,5 @@ aaroneberhart \[at\] ksu \[dot\] edu
 Data Semantics Laboratory
 2224 Engineering Hall
 1701D Platt St.
-Manhattan, KS 66506, USA
+Manhattan, KS 66506
+USA
