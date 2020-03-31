@@ -8,13 +8,13 @@ Hey everybody making a website
 
 Bio coming soon
 
-### [Data Semantics Lab](https://daselab.cs.ksu.edu/)
+### [CV](cv.md)
 
 ### [Projects](projects.md)
 
 ### [Publications](papers.md)
 
-### [CV](cv.md)
+### [Data Semantics Lab](https://daselab.cs.ksu.edu/)
 
 ### Contact
 
