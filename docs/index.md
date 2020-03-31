@@ -1,3 +1,5 @@
+| [Data Semantics Lab](https://daselab.cs.ksu.edu/) |
+
 # Under Construction
 
 Hey everybody making a website
@@ -14,7 +16,7 @@ Bio coming soon
 
 ### [Publications](papers.md)
 
-### [Data Semantics Lab](https://daselab.cs.ksu.edu/)
+### 
 
 ### Contact
 
