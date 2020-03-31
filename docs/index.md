@@ -1,4 +1,5 @@
 | [Data Semantics Lab](https://daselab.cs.ksu.edu/) |
+| :---: |
 
 # Under Construction
 
