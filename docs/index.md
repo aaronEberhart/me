@@ -1,5 +1,5 @@
-| [Data Semantics Lab](https://daselab.cs.ksu.edu/) |
-| :---: |
+| [Publications](papers.md) | [Projects](projects.md) |  [Data Semantics Lab](https://daselab.cs.ksu.edu/) | [CV](cv.md) |
+| :---: | :---: | :---: | :---: |
 
 # Under Construction
 
@@ -10,14 +10,6 @@ Hey everybody making a website
 ![Me](me.png)<!-- .element height="40%" width="40%" -->
 
 Bio coming soon
-
-### [CV](cv.md)
-
-### [Projects](projects.md)
-
-### [Publications](papers.md)
-
-### 
 
 ### Contact
 
