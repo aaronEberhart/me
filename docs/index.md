@@ -1,4 +1,4 @@
-# <div class="container-lg clearfix">
+<div class="container-lg clearfix">
   <div class="col-3 float-left pr-2 mb-3">
     <div class="border bg-gray-light">[Publications](papers.md)</div>
   </div>
