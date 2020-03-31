@@ -8,9 +8,13 @@ Hey everybody making a website
 
 Bio coming soon
 
-### Publications
+### [Data Semantics Lab](https://daselab.cs.ksu.edu/)
 
-You can see a list of my published work [here](papers.md).
+### [Projects](projects.md)
+
+### [Publications](papers.md)
+
+### [CV](cv.md)
 
 ### Contact
 
