@@ -15,7 +15,11 @@ Bio coming soon
 aaroneberhart \[at\] ksu \[dot\] edu
 
 Data Semantics Laboratory
+
 2224 Engineering Hall
+
 1701D Platt St.
+
 Manhattan, KS 66506
+
 USA
