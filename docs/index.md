@@ -1,6 +1,6 @@
 # [Publications](papers.md) [Projects](projects.md) [DaSe Lab](https://daselab.cs.ksu.edu/) [CV](cv.md)
 
-<div class="border d-inline-flex">
+<div class="border d-flex flex-row">
  <div class="p-5 border bg-gray-light flex-auto"><a href="papers.html">Publications</a></div>
  <div class="p-5 border bg-gray-light flex-auto"><a href="papers.html">Publications</a></div>
  <div class="p-5 border bg-gray-light flex-auto"><a href="papers.html">Publications</a></div>
