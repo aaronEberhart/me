@@ -17,7 +17,7 @@ Bio coming soon
   <div><a href="https://aaroneberhart.github.io/me/papers.html">Publications</a></div>
   <div><a href="https://aaroneberhart.github.io/me/papers.html">Publications</a></div>
 </div>
-flex-container {
+#flex-container {
   display: flex;
 }
 
