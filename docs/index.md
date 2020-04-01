@@ -2,21 +2,18 @@
 
 Hey everybody making a website
 
+<div style="display: flex;flex-direction: row;flex-wrap: nowrap;justify-content: space-around;align-items: center;">
+  <div><a href="https://aaroneberhart.github.io/me/papers.html"><strong>Publications</strong></a></div>
+  <div><a href="https://aaroneberhart.github.io/me/projects.html"><strong>Projects</strong></a></div>
+  <div><a href="https://aaroneberhart.github.io/me/cv.html"><strong>CV</strong></a></div>
+</div>
+
 ### About Me
 
 ![Pcture of me](me.png)<!-- .element height="35%" width="35%" -->
 
 Bio coming soon
 
-- [**Publications**](papers.md)
-- [**Projects**](projects.md)
-- [**CV**](cv.md)
-
-<div style="display: flex;flex-direction: row;flex-wrap: nowrap;justify-content: space-around;align-items: center;">
-  <div><a href="https://aaroneberhart.github.io/me/papers.html"><b>Publications</b></a></div>
-  <div><a href="https://aaroneberhart.github.io/me/projects.html"><b>Projects</b></a></div>
-  <div><a href="https://aaroneberhart.github.io/me/cv.html"><b>CV</b></a></div>
-</div>
 
 #### Contact
 
