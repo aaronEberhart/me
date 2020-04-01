@@ -2,8 +2,8 @@
 
 <div style="display: flex;flex-direction: row;flex-wrap: nowrap;justify-content: space-around;align-items: center;">  
   <div><h3><a href="https://aaroneberhart.github.io/me/papers.html">Publications</a></h3></div>
-  <div><a href="https://aaroneberhart.github.io/me/projects.html"><h3>Projects</h3></a></div>
-  <div><a href="https://aaroneberhart.github.io/me/cv.html"><h3>Curriculum Vitae</h3></a></div>
+  <div><h3><a href="https://aaroneberhart.github.io/me/projects.html">Projects</a></h3></div>
+  <div><h3><a href="https://aaroneberhart.github.io/me/cv.html">Curriculum Vitae</a></h3></div>
 </div>
 
 ### About Me
