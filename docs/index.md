@@ -1,14 +1,14 @@
 <h1 style="color:red;">Under Construction</h1>
 
 <div style="display: flex;flex-direction: row;flex-wrap: nowrap;justify-content: space-around;align-items: center;">  
-  <div><h3><a href="https://aaroneberhart.github.io/me/papers.html">Publications</a></h3></div>
-  <div><h3><a href="https://aaroneberhart.github.io/me/projects.html">Projects</a></h3></div>
-  <div><h3><a href="https://aaroneberhart.github.io/me/cv.html">Curriculum Vitae</a></h3></div>
+  <div><h3><a href="/me/papers.html">Publications</a></h3></div>
+  <div><h3><a href="/me/projects.html">Projects</a></h3></div>
+  <div><h3><a href="/me/cv.html">Curriculum Vitae</a></h3></div>
 </div>
 
 ### About Me
 
-![Picture of me](me.png)<!-- .element height="135%" width="135%" -->
+![Picture of me](me.png)
 
 Bio coming soon
 
