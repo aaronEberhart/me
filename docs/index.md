@@ -1,4 +1,4 @@
-# Under Construction
+<h1 style="color:red;">Under Construction</h1>
 
 <div style="display: flex;flex-direction: row;flex-wrap: nowrap;justify-content: space-around;align-items: center;">  
   <div><h3><a href="https://aaroneberhart.github.io/me/papers.html">Publications</a></h3></div>
@@ -8,7 +8,7 @@
 
 ### About Me
 
-![Pcture of me](me.png)<!-- .element height="35%" width="35%" -->
+![Picture of me](me.png)<!-- .element height="35%" width="35%" -->
 
 Bio coming soon
 
