@@ -1,5 +1,3 @@
-## [Publications](papers.md)&nbsp;&nbsp;&nbsp;&nbsp;[Projects](projects.md)&nbsp;&nbsp;&nbsp;&nbsp;[CV](cv.md)&nbsp;&nbsp;&nbsp;&nbsp;[DaSe Lab](https://daselab.cs.ksu.edu/)
-
 ## Under Construction
 
 Hey everybody making a website
@@ -9,6 +7,11 @@ Hey everybody making a website
 ![Me](me.png)<!-- .element height="40%" width="40%" -->
 
 Bio coming soon
+
+## [Publications](papers.md)
+##[Projects](projects.md)
+##[CV](cv.md)
+##[DaSe Lab](https://daselab.cs.ksu.edu/)
 
 #### Contact
 
