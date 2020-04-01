@@ -12,12 +12,12 @@ Bio coming soon
 - [**Projects**](projects.md)
 - [**CV**](cv.md)
 
-<!-- inline-flex container -->
-<div class="border d-flex flex-column flex-md-row">
-  <div class="p-5 border bg-gray-light"><a href="https://aaroneberhart.github.io/me/papers.html">Publications</a></div>
-  <div class="p-5 border bg-gray-light"><a href="https://aaroneberhart.github.io/me/papers.html">Publications</a></div>
-  <div class="p-5 border bg-gray-light"><a href="https://aaroneberhart.github.io/me/papers.html">Publications</a></div>
+<div class="flex-container">
+  <div><a href="https://aaroneberhart.github.io/me/papers.html">Publications</a></div>
+  <div><a href="https://aaroneberhart.github.io/me/papers.html">Publications</a></div>
+  <div><a href="https://aaroneberhart.github.io/me/papers.html">Publications</a></div>
 </div>
+<!-- .flex-container display: flex -->
 
 #### Contact
 
