@@ -3,9 +3,9 @@
 Hey everybody making a website
 
 <div style="display: flex;flex-direction: row;flex-wrap: nowrap;justify-content: space-around;align-items: center;">  
-  <div><a href="https://aaroneberhart.github.io/me/cv.html"><strong>CV</strong></a></div>
-  <div><a href="https://aaroneberhart.github.io/me/projects.html"><strong>Projects</strong></a></div>
   <div><a href="https://aaroneberhart.github.io/me/papers.html"><strong>Publications</strong></a></div>
+  <div><a href="https://aaroneberhart.github.io/me/projects.html"><strong>Projects</strong></a></div>
+  <div><a href="https://aaroneberhart.github.io/me/cv.html"><strong>Curriculum Vitae</strong></a></div>
 </div>
 
 ### About Me
