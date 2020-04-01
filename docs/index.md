@@ -8,7 +8,7 @@
 
 ### About Me
 
-![Picture of me](me.png)<!-- .element height="35%" width="35%" -->
+![Picture of me](me.png)<!-- .element height="135%" width="135%" -->
 
 Bio coming soon
 
