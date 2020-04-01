@@ -4,13 +4,13 @@ Hey everybody making a website
 
 ### About Me
 
-![Me](me.png)<!-- .element height="40%" width="40%" -->
+![Pcture of me](me.png)<!-- .element height="35%" width="35%" -->
 
 Bio coming soon
 
-- [**Publications**](papers.md)
-- [**Projects**](projects.md)
-- [**CV**](cv.md)
+- [### Publications](papers.md)
+- [### Projects](projects.md)
+- [### CV](cv.md)
 
 #### Contact
 
