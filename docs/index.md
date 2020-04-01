@@ -8,9 +8,16 @@ Hey everybody making a website
 
 Bio coming soon
 
-#### [Publications](papers.md)
-#### [Projects](projects.md)
-#### [CV](cv.md)
+- [**Publications**](papers.md)
+- [**Projects**](projects.md)
+- [**CV**](cv.md)
+
+<!-- inline-flex container -->
+<div class="border d-inline-flex">
+  <div class="p-5 border bg-gray-light"><a href="">Publications</a></div>
+  <div class="p-5 border bg-gray-light"><a href="">Publications</a></div>
+  <div class="p-5 border bg-gray-light"><a href="">Publications</a></div>
+</div>
 
 #### Contact
 
