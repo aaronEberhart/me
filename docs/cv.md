@@ -1,4 +1,4 @@
-# CV
+# Curriculum Vitae
 
 TODO
 
