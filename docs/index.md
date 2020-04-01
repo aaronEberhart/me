@@ -1,7 +1,7 @@
 # Under Construction
 
 <div style="display: flex;flex-direction: row;flex-wrap: nowrap;justify-content: space-around;align-items: center;">  
-  <div><a href="https://aaroneberhart.github.io/me/papers.html"><h3 style="color="blue">Publications</h3></a></div>
+  <div><a href="https://aaroneberhart.github.io/me/papers.html"><h3 style="color:blue;">Publications</h3></a></div>
   <div><a href="https://aaroneberhart.github.io/me/projects.html"><h3>Projects</h3></a></div>
   <div><a href="https://aaroneberhart.github.io/me/cv.html"><h3>Curriculum Vitae</h3></a></div>
 </div>
