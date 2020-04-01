@@ -1,16 +1,16 @@
-# [Publications](papers.md)&nbsp;&nbsp;&nbsp;&nbsp;[Projects](projects.md)&nbsp;&nbsp;&nbsp;&nbsp;[DaSe Lab](https://daselab.cs.ksu.edu/)&nbsp;&nbsp;&nbsp;&nbsp;[CV](cv.md)
+## [Publications](papers.md)&nbsp;&nbsp;&nbsp;&nbsp;[Projects](projects.md)&nbsp;&nbsp;&nbsp;&nbsp;[DaSe Lab](https://daselab.cs.ksu.edu/)&nbsp;&nbsp;&nbsp;&nbsp;[CV](cv.md)
 
-# Under Construction
+## Under Construction
 
 Hey everybody making a website
 
-## About Me
+### About Me
 
 ![Me](me.png)<!-- .element height="40%" width="40%" -->
 
 Bio coming soon
 
-### Contact
+#### Contact
 
 aaroneberhart \[at\] ksu \[dot\] edu
 
