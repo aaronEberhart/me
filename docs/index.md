@@ -11,13 +11,12 @@ Bio coming soon
 - [**Publications**](papers.md)
 - [**Projects**](projects.md)
 - [**CV**](cv.md)
-- [**DaSe Lab**](https://daselab.cs.ksu.edu/)
 
 #### Contact
 
 aaroneberhart \[at\] ksu \[dot\] edu
 
-Data Semantics Laboratory<br/>
+[Data Semantics Laboratory](https://daselab.cs.ksu.edu/)<br/>
 2224 Engineering Hall<br/>
 1701D Platt St.<br/>
 Manhattan, KS 66506<br/>
