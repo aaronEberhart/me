@@ -1,4 +1,4 @@
-## [Publications](papers.md)&nbsp;&nbsp;&nbsp;&nbsp;[Projects](projects.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CV](cv.md)[DaSe Lab](https://daselab.cs.ksu.edu/)
+## [Publications](papers.md)&nbsp;&nbsp;&nbsp;&nbsp;[Projects](projects.md)&nbsp;&nbsp;&nbsp;&nbsp;[CV](cv.md)&nbsp;&nbsp;&nbsp;&nbsp;[DaSe Lab](https://daselab.cs.ksu.edu/)
 
 ## Under Construction
 
