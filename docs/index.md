@@ -14,9 +14,9 @@ Bio coming soon
 
 <!-- inline-flex container -->
 <div class="border d-flex flex-column flex-md-row">
-  <div class="p-5 border bg-gray-light"><a href="">Publications</a></div>
-  <div class="p-5 border bg-gray-light"><a href="">Publications</a></div>
-  <div class="p-5 border bg-gray-light"><a href="">Publications</a></div>
+  <div class="p-5 border bg-gray-light"><a href="https://aaroneberhart.github.io/me/papers.html">Publications</a></div>
+  <div class="p-5 border bg-gray-light"><a href="https://aaroneberhart.github.io/me/papers.html">Publications</a></div>
+  <div class="p-5 border bg-gray-light"><a href="https://aaroneberhart.github.io/me/papers.html">Publications</a></div>
 </div>
 
 #### Contact
