@@ -13,7 +13,7 @@ Bio coming soon
 - [**CV**](cv.md)
 
 <!-- inline-flex container -->
-<div class="border d-inline-flex">
+<div class="border d-flex flex-column flex-md-row">
   <div class="p-5 border bg-gray-light"><a href="">Publications</a></div>
   <div class="p-5 border bg-gray-light"><a href="">Publications</a></div>
   <div class="p-5 border bg-gray-light"><a href="">Publications</a></div>
