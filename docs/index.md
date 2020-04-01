@@ -12,14 +12,11 @@ Bio coming soon
 - [**Projects**](projects.md)
 - [**CV**](cv.md)
 
-<div class="flex-container">
+<div display="flex">
   <div><a href="https://aaroneberhart.github.io/me/papers.html">Publications</a></div>
   <div><a href="https://aaroneberhart.github.io/me/papers.html">Publications</a></div>
   <div><a href="https://aaroneberhart.github.io/me/papers.html">Publications</a></div>
 </div>
-<!-- .flex-container {
-  display: flex;
-} -->
 
 #### Contact
 
