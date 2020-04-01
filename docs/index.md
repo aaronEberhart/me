@@ -8,10 +8,10 @@ Hey everybody making a website
 
 Bio coming soon
 
-### [Publications](papers.md)
-### [Projects](projects.md)
-### [CV](cv.md)
-### [DaSe Lab](https://daselab.cs.ksu.edu/)
+- [**Publications**](papers.md)
+- [**Projects**](projects.md)
+- [**CV**](cv.md)
+- [**DaSe Lab**](https://daselab.cs.ksu.edu/)
 
 #### Contact
 
