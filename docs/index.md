@@ -1,6 +1,4 @@
-## Under Construction
-
-Hey everybody making a website
+# Under Construction
 
 <div style="display: flex;flex-direction: row;flex-wrap: nowrap;justify-content: space-around;align-items: center;">  
   <div><a href="https://aaroneberhart.github.io/me/papers.html"><strong>Publications</strong></a></div>
