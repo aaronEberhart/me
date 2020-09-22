@@ -61,7 +61,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 2976,
+				"buffer_size": 3858,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -70,7 +70,7 @@
 			"file": "papers.html",
 			"settings":
 			{
-				"buffer_size": 4107,
+				"buffer_size": 4171,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -405,15 +405,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2976,
+						"buffer_size": 3858,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2035,
-								2035
+								2852,
+								2852
 							]
 						],
 						"settings":
@@ -435,15 +435,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4107,
+						"buffer_size": 4171,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4091,
-								4091
+								3081,
+								3081
 							]
 						],
 						"settings":
